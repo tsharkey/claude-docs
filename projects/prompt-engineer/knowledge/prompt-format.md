@@ -26,6 +26,9 @@
 ## {Contextual Information}
 {any added information, behavior, characteristics, etc that the assistant should follow}
 
+## Continuity Protocols
+{relevant inforomation for how the assistant should manage its knowledge between sessions}
+
 ## Critical Reminders
 
 
