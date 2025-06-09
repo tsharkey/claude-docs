@@ -1,148 +1,159 @@
 # Weekly Planner Format Guide
 
-## Session Structure
+## Pre-Output Protocol
+**These actions must be completed BEFORE creating the weekly planning document:**
 
-### 1. Previous Week Review
-**Objective**: Assess what worked, identify incomplete priorities, and inform current week planning
+### 1. Focus Area Discussion
+**Objective**: Review and optimize current focus areas before planning the week
 
-**Format**:
+**Process**:
+1. **List Current Focus Areas**: Display all current focus areas (personal and work)
+2. **Task Inventory**: For each focus area, list all current tasks
+3. **Gap Analysis**: Identify missing work or tasks that need more information
+4. **Alignment Check**: Confirm focus areas still match current interests/priorities
+
+**Discussion Format**:
 ```
-## Previous Week Review (Week of [DATE])
+Let's review your current focus areas:
 
-### Key Tasks Assessment
-**Priority Tasks from Last Week:**
-- [Task Name] - ✅ Complete / ❌ Incomplete / 🔄 In Progress
-- [Task Name] - ✅ Complete / ❌ Incomplete / 🔄 In Progress
-
-**Incomplete Priority Analysis:**
-For any incomplete tasks:
-- **Task**: [Name]
-- **Status**: [Why incomplete - lack of time, lost relevance, blocked, etc.]
-- **Recommendation**: [Reschedule/Refocus/Archive/Break Down]
-
-### Focus Area Momentum
-- **[Focus Area 1]**: [Brief progress assessment]
-- **[Focus Area 2]**: [Brief progress assessment]
-- **[Focus Area 3]**: [Brief progress assessment]
-- **[Focus Area 4]**: [Brief progress assessment]
-```
-
-### 2. Focus Area Review & Alignment
-**Objective**: Confirm current focus areas remain relevant and identify any needed transitions
-
-**Format**:
-```
-## Focus Area Review
-
-### Current Focus Areas
 **Personal Focus Areas:**
-1. [Current Focus Area] - Still aligned? [Y/N]
-2. [Current Focus Area] - Still aligned? [Y/N]
+1. [Focus Area Name]
+   - Current tasks: [List all tasks]
+   - Missing work identified: [Gaps or unclear tasks]
+   - Information needed: [Tasks requiring clarification]
+
+2. [Focus Area Name]
+   - Current tasks: [List all tasks]
+   - Missing work identified: [Gaps or unclear tasks]
+   - Information needed: [Tasks requiring clarification]
 
 **Work Focus Areas:**
-1. [Current Focus Area] - Still aligned? [Y/N]
-2. [Current Focus Area] - Still aligned? [Y/N]
+1. [Focus Area Name]
+   - Current tasks: [List all tasks]
+   - Missing work identified: [Gaps or unclear tasks]
+   - Information needed: [Tasks requiring clarification]
 
-### Focus Area Analysis
-**For each focus area, assess:**
-- **Task Review**: [Number of tasks, any missing context/clarity needed]
-- **Missing Tasks**: [Identify any obvious next steps not captured]
-- **Energy Level**: [High/Medium/Low interest and momentum]
+2. [Focus Area Name]
+   - Current tasks: [List all tasks]
+   - Missing work identified: [Gaps or unclear tasks]
+   - Information needed: [Tasks requiring clarification]
 
-### Focus Area Changes (if applicable)
-**New Focus Area Creation:**
-- **New Focus**: [Name and brief description]
-- **Project Actions**: Create new project, move old tasks to General Todo
-- **Transition Tasks**: [Any needed to close out old focus]
+Are these focus areas still aligned with your current priorities?
 ```
 
-### 3. Calendar & Capacity Analysis
-**Objective**: Understand available time and major commitments to inform realistic task scheduling
+### 2. Task Grooming Session
+**Objective**: Clean up inbox and ensure all tasks have proper labels and information
 
-**Format**:
+**Process**:
+1. **Inbox Review**: Process all tasks in inbox, suggest project assignments
+2. **Label Audit**: Identify tasks missing time estimates or task type labels
+3. **Information Gaps**: Flag tasks that are unclear or need more detail
+4. **Recommendations**: Suggest improvements for unclear tasks
+
+### 3. AI Assistance Identification
+**Objective**: Identify tasks the AI can complete to reduce workload
+
+**Process**:
+1. **Scan for @research tasks**: List all research tasks and offer to complete
+2. **Scan for @shopping tasks**: List all shopping tasks and offer to complete  
+3. **Immediate Completion**: Ask which tasks to complete now vs. later
+
+## Weekly Planning Document Output
+
+### Document Structure
+
 ```
-## Week of [DATE] - Calendar Overview
+# Weekly Plan - Week of [DATE]
 
-### Major Commitments
-**Monday**: [Key meetings/appointments]
-**Tuesday**: [Key meetings/appointments]
-**Wednesday**: [Key meetings/appointments]
-**Thursday**: [Key meetings/appointments]
-**Friday**: [Key meetings/appointments]
-**Weekend**: [Key commitments]
+## Calendar Overview
 
-### Focus Time Availability
-**Total Focus Time Blocks**: [Number and duration of "Focus Time" calendar blocks]
-**Available Personal Time**: [Estimate of available time for personal focus areas]
-**Peak Energy Periods**: [Best times for high-concentration work]
+### Major Scheduled Events
+**Monday [Date]:**
+- [Time] - [Event/Meeting]
+- [Time] - Focus Time (Work)
 
-### Capacity Assessment
-**This Week's Capacity**: [High/Medium/Low based on calendar and energy]
-**Recommended Task Volume**: [Conservative/Normal/Aggressive based on capacity]
-```
+**Tuesday [Date]:**
+- [Time] - [Event/Meeting]
 
-### 4. Weekly Task Priorities
-**Objective**: Identify urgent/important tasks and strategic focus area advancement
+**Wednesday [Date]:**
+- [Time] - [Event/Meeting]
 
-**Format**:
-```
-## This Week's Priorities
+**Thursday [Date]:**
+- [Time] - [Event/Meeting]
 
-### Urgent & Important Tasks
-**Priority 1 & 2 tasks due/scheduled this week:**
-- [Task Name] - Due: [Date] - Time Est: [Label] - Project: [Focus Area/Todo]
-- [Task Name] - Due: [Date] - Time Est: [Label] - Project: [Focus Area/Todo]
+**Friday [Date]:**
+- [Time] - [Event/Meeting]
 
-### Focus Area Advancement
-**[Personal Focus Area 1]**:
-- [Key task to advance this area]
-- [Estimated time needed and suggested scheduling]
+**Weekend:**
+- [Any scheduled events]
 
-**[Personal Focus Area 2]**:
-- [Key task to advance this area]
-- [Estimated time needed and suggested scheduling]
+### Time Availability
+- **Total Focus Time Blocks**: [Number and duration]
+- **Available Personal Time**: [Estimate]
+- **Capacity Assessment**: [High/Medium/Low]
 
-**[Work Focus Area 1]**:
-- [Key task to advance this area]
-- [Suggested focus time block placement]
+## Tasks Due This Week
 
-**[Work Focus Area 2]**:
-- [Key task to advance this area]
-- [Suggested focus time block placement]
+### Monday [Date]
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-### Research & Shopping Tasks
-**Available for AI Completion:**
-- [Task Name] - @research - [Brief description]
-- [Task Name] - @shopping - [Brief description]
+### Tuesday [Date]  
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-*Would you like me to complete any of these now?*
-```
+### Wednesday [Date]
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-### 5. Strategic Recommendations
-**Objective**: Provide specific guidance for the week ahead
+### Thursday [Date]
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-**Format**:
-```
-## Week Strategy & Recommendations
+### Friday [Date]
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-### Scheduling Suggestions
-- **Monday**: [Suggested focus and task types]
-- **Tuesday**: [Suggested focus and task types]
-- **Wednesday**: [Suggested focus and task types]
-- **Thursday**: [Suggested focus and task types]
-- **Friday**: [Suggested focus and task types]
+### Weekend
+- [Task Name] - [Project] - [Time Estimate] - [Priority]
 
-### Focus Recommendations
-**Primary Focus This Week**: [1-2 areas that should get most attention]
-**Secondary Considerations**: [Areas to maintain but not drive]
+## Focus Areas Summary
 
-### Potential Obstacles
-- [Identified scheduling conflicts or capacity concerns]
-- [Recommended mitigation strategies]
+### Personal Focus Areas
 
-### Success Metrics
-**This week will be successful if:**
-- [2-3 specific, measurable outcomes]
+#### [Focus Area 1 Name]
+**Current Tasks:**
+- [Task Name] - [Time Estimate] - [Status/Notes]
+- [Task Name] - [Time Estimate] - [Status/Notes]
+
+**This Week's Priority**: [Key task or area of emphasis]
+**Next Actions**: [Immediate next steps identified]
+
+#### [Focus Area 2 Name]  
+**Current Tasks:**
+- [Task Name] - [Time Estimate] - [Status/Notes]
+- [Task Name] - [Time Estimate] - [Status/Notes]
+
+**This Week's Priority**: [Key task or area of emphasis]
+**Next Actions**: [Immediate next steps identified]
+
+### Work Focus Areas
+
+#### [Focus Area 1 Name]
+**Current Tasks:**
+- [Task Name] - [Time Estimate] - [Status/Notes]
+- [Task Name] - [Time Estimate] - [Status/Notes]
+
+**This Week's Priority**: [Key task or area of emphasis]
+**Focus Time Allocation**: [Suggested focus time usage]
+
+#### [Focus Area 2 Name]
+**Current Tasks:**
+- [Task Name] - [Time Estimate] - [Status/Notes]
+- [Task Name] - [Time Estimate] - [Status/Notes]
+
+**This Week's Priority**: [Key task or area of emphasis]  
+**Focus Time Allocation**: [Suggested focus time usage]
+
+## Week Strategy
+- **Primary Focus**: [Main area of emphasis for the week]
+- **Key Success Metrics**: [2-3 specific outcomes that would make this week successful]
+- **Potential Challenges**: [Scheduling conflicts or capacity concerns identified]
 ```
 
 ## Session Documentation Requirements
@@ -155,44 +166,43 @@ For any incomplete tasks:
 
 ## Weekly Planning Session - Week of [DATE]
 
-### Session Summary
-- **Focus Areas Confirmed**: [List current 2+2 focus areas]
-- **Focus Area Changes**: [Any transitions made]
-- **Key Priorities Identified**: [Number of urgent/important tasks]
-- **Capacity Assessment**: [High/Medium/Low]
+### Pre-Session Actions Completed
+- **Focus Areas Reviewed**: ✅ / [Issues identified]
+- **Tasks Groomed**: [Number of inbox items processed] / [Labels added] / [Information clarified]
+- **AI Tasks Completed**: [List of @research and @shopping tasks completed]
 
-### Task Actions Taken
-- **Tasks Created**: [Number and brief list]
-- **Tasks Rescheduled**: [Number and reasoning]
-- **Research/Shopping Tasks Completed**: [List any completed during session]
+### Session Summary
+- **Focus Areas Confirmed**: [List current focus areas]
+- **Focus Area Changes**: [Any transitions made]
+- **Tasks Due This Week**: [Total count by priority]
+- **Capacity Assessment**: [High/Medium/Low]
 
 ### Strategic Decisions
 - **Primary Weekly Focus**: [Main area of emphasis]
-- **Scheduling Strategy**: [How tasks were distributed across week]
-- **Capacity Adjustments**: [Any modifications based on calendar/energy]
+- **Key Success Metrics**: [Specific outcomes defined]
+- **Task Distribution**: [How work was allocated across focus areas]
 
 ### Notes for Next Session
-- [Anything to follow up on]
-- [Patterns or concerns to monitor]
+- [Focus area momentum to monitor]
+- [Recurring task grooming needs]
+- [Patterns observed]
 
 === SESSION END [DATE] ===
 ```
 
 ## Output Principles
 
-### Tone & Approach
-- **Strategic but Concise**: Provide enough context for good decisions without overwhelming detail
-- **Action-Oriented**: Focus on what to do this week, not extensive analysis
-- **Realistic**: Match recommendations to actual capacity and energy levels
-- **Decisive**: Make clear recommendations rather than presenting options to analyze
+### Pre-Session Interaction
+- **Collaborative**: Engage in discussion about focus areas and task grooming
+- **Thorough**: Don't skip the pre-work - it's essential for effective planning
+- **Action-Oriented**: Actually complete identified AI tasks during the session
 
-### Information Hierarchy
-1. **Critical This Week**: Urgent/important tasks that must be addressed
-2. **Focus Advancement**: Strategic tasks that move focus areas forward
-3. **Opportunistic**: Tasks that can be done if time/energy allows
+### Document Creation
+- **Comprehensive**: Include all scheduled events and due tasks
+- **Strategic**: Connect tasks to focus areas and larger goals
+- **Realistic**: Match weekly priorities to actual capacity
 
-### Common Adjustments
-- **High Capacity Week**: More focus area advancement, larger tasks
-- **Low Capacity Week**: Minimum viable priorities, smaller tasks
-- **Transition Week**: Focus on closing out old areas and setting up new ones
-- **Maintenance Week**: Catch up on overdue items, system cleanup
+### Communication Style
+- **Structured**: Follow the format consistently
+- **Clear**: Present information in scannable, organized way
+- **Actionable**: Focus on what needs to be done this week
