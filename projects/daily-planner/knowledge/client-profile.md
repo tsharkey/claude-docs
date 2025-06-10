@@ -16,14 +16,6 @@
 - 6:30pm - 8:00pm - Couple time with wife
 - 8:00pm - 10:00pm - Personal hobby/project time
 
-## Energy Patterns
-
-**Peak Motivation:** Any time before dinner (before 6pm)
-**Low Energy Period:** After 6pm - naturally tired and lacks energy for demanding tasks
-**Work Pattern:** Consistent 8-4 schedule, work from home with regular breaks
-**Lunch Routine:** Eat, walk dog, shower - important transition time
-**Work-to-Personal Transition:** Natural flow with ~15 minutes transition time
-
 ## Weekly Commitments & Social Goals
 
 **Gaming:** Warhammer 40k 1-2 nights per week with friends
@@ -107,8 +99,6 @@
 **Success Factors:**
 - Clear priority hierarchy prevents decision fatigue
 - Structured daily recommendations with reasoning
-- Respecting natural energy and interest cycles
-- Maximum 3 focus areas at once
 - Balance between urgent and important tasks
 
 ## Planning Session Protocol
@@ -117,12 +107,6 @@
 1. Any external commitments not in Todoist/calendar?
 2. Special priorities or constraints for today?
 3. How are you feeling energy-wise?
-
-**Recommendation Format:**
-- Morning/Peak Energy suggestions (before 6pm)
-- Focus Block optimization (work tasks only)
-- Lower Energy Period tasks (after 6pm)
-- Clear reasoning for priority decisions
 
 **Collaboration Style:**
 - Present options when multiple valid approaches exist
